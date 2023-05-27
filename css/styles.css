@@ -1,0 +1,70 @@
+/**
+color principal: #3F52B5; azul claro
+color secundario: #FFA441; anaranjado
+color terciario: #FFE641; amarillo
+color cuaternario: #00ffff; aqua
+**/
+
+.color-body {
+    background-color: #5dcdb5;
+}
+
+.menu {
+    background-color: #FFE641;
+}
+
+.form-reserva {
+    background-color: #00ffff;
+}
+
+a:hover {
+    color: #FFA441 !important;
+    transition: 0.8s !important;
+    cursor: pointer !important;
+}
+
+nav a:hover {
+    background-color: #3F52B5;
+    transition: 0.8s;
+    cursor: pointer; 
+}
+
+a {
+    color: #FFE641;
+    text-decoration:none;
+
+}
+
+.galeria {
+    background-color: #FFA441;
+    padding: 20px 0px 0px 0px;
+    margin: 40px 0px 40px 0px;
+}
+
+.seccion {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+/* .dark {
+    background-color: black;
+    color: white;
+} */
+
+.font-Serif {
+    font-family: 'Fira Sans', sans-serif !important;
+}
+
+.form-reserva h1 {
+    padding-top: 16px;
+}
+
+.estilo-galeria {
+    margin-right: 0px;
+    margin-left: 0px;
+}
+
+
+
+
+
