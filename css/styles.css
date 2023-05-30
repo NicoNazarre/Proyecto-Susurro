@@ -1,16 +1,26 @@
 /**
-color principal: #3F52B5; azul claro
-color secundario: #FFA441; anaranjado
-color terciario: #FFE641; amarillo
-color cuaternario: #00ffff; aqua
+color Verde agua: #7fffd4; 
+color Coral: #e4717a; 
+color Azul cielo #92c5fc; 
+color Azul marino: #162b4e;
+color Blanco: 
 **/
 
-.color-body {
-    background-color: #5dcdb5;
+.body-home {
+    background-color: #7fffd4;
 }
 
 .menu {
-    background-color: #FFE641;
+    background-color: #162b4e;
+}
+
+.menu a {
+    color: #e4717a;
+    
+}
+
+.menu a b {
+    color: white;
 }
 
 .form-reserva {
@@ -30,13 +40,13 @@ nav a:hover {
 }
 
 a {
-    color: #FFE641;
+    color: #92c5fc;
     text-decoration:none;
 
 }
 
 .galeria {
-    background-color: #FFA441;
+    background-color: white;
     padding: 20px 0px 0px 0px;
     margin: 40px 0px 40px 0px;
 }
@@ -63,6 +73,21 @@ a {
     margin-right: 0px;
     margin-left: 0px;
 }
+
+.video-container {
+    position: relative;
+  }
+  
+/*   #sound-button {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    z-index: 1;
+  } */
+
+  .footer {
+    background-color: #e4717a;
+  }
 
 
 
